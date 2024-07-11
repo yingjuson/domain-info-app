@@ -77,3 +77,7 @@ npm run preview
 └── README.md
 └── ... (the rest of the config files)
 ```
+
+## Deployed Version
+
+You can also check out the [deployed version](https://domain-info-app.vercel.app/) in Vercel.
